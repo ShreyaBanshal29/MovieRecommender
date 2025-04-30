@@ -29,6 +29,17 @@ This is a content-based movie recommendation system built using *Python* and *St
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/ShreyaBanshal29/MovieRecommender.git
-cd MovieRecommender
+   git clone https://github.com/ShreyaBanshal29/MovieRecommender.git
+   cd MovieRecommender
+
+2. **Create a virtual environment (optional but recommended)**
+   python -m venv venv
+   source venv/bin/activate
+
+3. **Install dependencies**
+   pip install -r requirements.txt
+
+4. **Run the Streamlit app**
+    streamlit run app.py
+
+
