@@ -42,4 +42,10 @@ This is a content-based movie recommendation system built using *Python* and *St
 4. **Run the Streamlit app**
     streamlit run app.py
 
+---
+
+## 🔗 Live App
+
+Check out the deployed project here: [Live Demo] (https://movierecommender-fpofqtkqvasldbds4jlqsd.streamlit.app)
+
 
